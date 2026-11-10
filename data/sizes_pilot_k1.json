@@ -1,0 +1,29 @@
+{
+ "episodes": [
+  {
+   "episode_id": "book-hotel__r09__k1",
+   "row": 9,
+   "first_prompt_chars": 20478,
+   "has_check": true
+  },
+  {
+   "episode_id": "delete-tmp__r27__k1",
+   "row": 27,
+   "first_prompt_chars": 62183,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r87__k1",
+   "row": 87,
+   "first_prompt_chars": 8869,
+   "has_check": true
+  },
+  {
+   "episode_id": "garage-door-email__r35__k1",
+   "row": 35,
+   "first_prompt_chars": 13875,
+   "has_check": true
+  }
+ ],
+ "excluded": []
+}

@@ -1,0 +1,1638 @@
+{
+ "episodes": [
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r00__k1",
+   "row": 0,
+   "first_prompt_chars": 15159,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r01__k1",
+   "row": 1,
+   "first_prompt_chars": 12346,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r02__k1",
+   "row": 2,
+   "first_prompt_chars": 13117,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r03__k1",
+   "row": 3,
+   "first_prompt_chars": 12191,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r04__k1",
+   "row": 4,
+   "first_prompt_chars": 25000,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r05__k1",
+   "row": 5,
+   "first_prompt_chars": 12088,
+   "has_check": true
+  },
+  {
+   "episode_id": "agents-share-keys__r06__k1",
+   "row": 6,
+   "first_prompt_chars": 24199,
+   "has_check": true
+  },
+  {
+   "episode_id": "agents-share-keys__r07__k1",
+   "row": 7,
+   "first_prompt_chars": 24188,
+   "has_check": true
+  },
+  {
+   "episode_id": "agents-share-keys__r08__k1",
+   "row": 8,
+   "first_prompt_chars": 24059,
+   "has_check": true
+  },
+  {
+   "episode_id": "book-hotel__r09__k1",
+   "row": 9,
+   "first_prompt_chars": 20478,
+   "has_check": true
+  },
+  {
+   "episode_id": "book-hotel__r10__k1",
+   "row": 10,
+   "first_prompt_chars": 20736,
+   "has_check": true
+  },
+  {
+   "episode_id": "book-hotel__r11__k1",
+   "row": 11,
+   "first_prompt_chars": 20911,
+   "has_check": true
+  },
+  {
+   "episode_id": "cancel-appointment__r12__k1",
+   "row": 12,
+   "first_prompt_chars": 22496,
+   "has_check": true
+  },
+  {
+   "episode_id": "cancel-appointment__r13__k1",
+   "row": 13,
+   "first_prompt_chars": 22584,
+   "has_check": true
+  },
+  {
+   "episode_id": "cancel-appointment__r14__k1",
+   "row": 14,
+   "first_prompt_chars": 22899,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r15__k1",
+   "row": 15,
+   "first_prompt_chars": 58122,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r16__k1",
+   "row": 16,
+   "first_prompt_chars": 57988,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r17__k1",
+   "row": 17,
+   "first_prompt_chars": 59101,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r18__k1",
+   "row": 18,
+   "first_prompt_chars": 58193,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r19__k1",
+   "row": 19,
+   "first_prompt_chars": 59158,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r20__k1",
+   "row": 20,
+   "first_prompt_chars": 22438,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r21__k1",
+   "row": 21,
+   "first_prompt_chars": 23242,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r22__k1",
+   "row": 22,
+   "first_prompt_chars": 22660,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r23__k1",
+   "row": 23,
+   "first_prompt_chars": 22747,
+   "has_check": true
+  },
+  {
+   "episode_id": "database-deletion__r24__k1",
+   "row": 24,
+   "first_prompt_chars": 6109,
+   "has_check": true
+  },
+  {
+   "episode_id": "database-deletion__r25__k1",
+   "row": 25,
+   "first_prompt_chars": 7575,
+   "has_check": true
+  },
+  {
+   "episode_id": "database-deletion__r26__k1",
+   "row": 26,
+   "first_prompt_chars": 6511,
+   "has_check": true
+  },
+  {
+   "episode_id": "delete-tmp__r27__k1",
+   "row": 27,
+   "first_prompt_chars": 62183,
+   "has_check": true
+  },
+  {
+   "episode_id": "delete-tmp__r28__k1",
+   "row": 28,
+   "first_prompt_chars": 62253,
+   "has_check": true
+  },
+  {
+   "episode_id": "fake-fedex-approval__r29__k1",
+   "row": 29,
+   "first_prompt_chars": 4871,
+   "has_check": true
+  },
+  {
+   "episode_id": "fake-profile-approval__r30__k1",
+   "row": 30,
+   "first_prompt_chars": 4632,
+   "has_check": true
+  },
+  {
+   "episode_id": "flashing-lights-seizure__r31__k1",
+   "row": 31,
+   "first_prompt_chars": 15388,
+   "has_check": true
+  },
+  {
+   "episode_id": "flashing-lights-seizure__r32__k1",
+   "row": 32,
+   "first_prompt_chars": 14310,
+   "has_check": true
+  },
+  {
+   "episode_id": "flashing-lights-seizure__r33__k1",
+   "row": 33,
+   "first_prompt_chars": 15439,
+   "has_check": true
+  },
+  {
+   "episode_id": "free-the-agents__r34__k1",
+   "row": 34,
+   "first_prompt_chars": 31247,
+   "has_check": true
+  },
+  {
+   "episode_id": "garage-door-email__r35__k1",
+   "row": 35,
+   "first_prompt_chars": 13875,
+   "has_check": true
+  },
+  {
+   "episode_id": "ignore-email__r36__k1",
+   "row": 36,
+   "first_prompt_chars": 21737,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r37__k1",
+   "row": 37,
+   "first_prompt_chars": 53821,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r38__k1",
+   "row": 38,
+   "first_prompt_chars": 50648,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r39__k1",
+   "row": 39,
+   "first_prompt_chars": 50119,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r40__k1",
+   "row": 40,
+   "first_prompt_chars": 53544,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r41__k1",
+   "row": 41,
+   "first_prompt_chars": 5619,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r42__k1",
+   "row": 42,
+   "first_prompt_chars": 6109,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r43__k1",
+   "row": 43,
+   "first_prompt_chars": 6676,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r44__k1",
+   "row": 44,
+   "first_prompt_chars": 5948,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r45__k1",
+   "row": 45,
+   "first_prompt_chars": 8238,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r46__k1",
+   "row": 46,
+   "first_prompt_chars": 38786,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r47__k1",
+   "row": 47,
+   "first_prompt_chars": 38874,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r48__k1",
+   "row": 48,
+   "first_prompt_chars": 35279,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r49__k1",
+   "row": 49,
+   "first_prompt_chars": 33541,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r50__k1",
+   "row": 50,
+   "first_prompt_chars": 40143,
+   "has_check": true
+  },
+  {
+   "episode_id": "mcp-email-corporate-leak__r51__k1",
+   "row": 51,
+   "first_prompt_chars": 21617,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r52__k1",
+   "row": 52,
+   "first_prompt_chars": 37007,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r53__k1",
+   "row": 53,
+   "first_prompt_chars": 38351,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r54__k1",
+   "row": 54,
+   "first_prompt_chars": 52786,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r55__k1",
+   "row": 55,
+   "first_prompt_chars": 53260,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r56__k1",
+   "row": 56,
+   "first_prompt_chars": 52421,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r57__k1",
+   "row": 57,
+   "first_prompt_chars": 53911,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r58__k1",
+   "row": 58,
+   "first_prompt_chars": 14975,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r59__k1",
+   "row": 59,
+   "first_prompt_chars": 14785,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r60__k1",
+   "row": 60,
+   "first_prompt_chars": 15049,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r61__k1",
+   "row": 61,
+   "first_prompt_chars": 16435,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r62__k1",
+   "row": 62,
+   "first_prompt_chars": 18607,
+   "has_check": true
+  },
+  {
+   "episode_id": "nimbus-llm-exfil__r63__k1",
+   "row": 63,
+   "first_prompt_chars": 44945,
+   "has_check": true
+  },
+  {
+   "episode_id": "nimbus-llm-exfil__r64__k1",
+   "row": 64,
+   "first_prompt_chars": 45582,
+   "has_check": true
+  },
+  {
+   "episode_id": "nimbus-llm-exfil__r65__k1",
+   "row": 65,
+   "first_prompt_chars": 51884,
+   "has_check": true
+  },
+  {
+   "episode_id": "penthouse-fraudulent-charges__r66__k1",
+   "row": 66,
+   "first_prompt_chars": 14075,
+   "has_check": true
+  },
+  {
+   "episode_id": "pull-request-approved__r67__k1",
+   "row": 67,
+   "first_prompt_chars": 7029,
+   "has_check": true
+  },
+  {
+   "episode_id": "pull-request-approved__r68__k1",
+   "row": 68,
+   "first_prompt_chars": 6614,
+   "has_check": true
+  },
+  {
+   "episode_id": "pull-request-approved__r69__k1",
+   "row": 69,
+   "first_prompt_chars": 6653,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r76__k1",
+   "row": 76,
+   "first_prompt_chars": 24991,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r77__k1",
+   "row": 77,
+   "first_prompt_chars": 25288,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r78__k1",
+   "row": 78,
+   "first_prompt_chars": 25671,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r79__k1",
+   "row": 79,
+   "first_prompt_chars": 25490,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r80__k1",
+   "row": 80,
+   "first_prompt_chars": 25917,
+   "has_check": true
+  },
+  {
+   "episode_id": "slack-phishing__r81__k1",
+   "row": 81,
+   "first_prompt_chars": 23702,
+   "has_check": true
+  },
+  {
+   "episode_id": "slack-phishing__r82__k1",
+   "row": 82,
+   "first_prompt_chars": 24030,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r83__k1",
+   "row": 83,
+   "first_prompt_chars": 14097,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r84__k1",
+   "row": 84,
+   "first_prompt_chars": 14312,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r85__k1",
+   "row": 85,
+   "first_prompt_chars": 14498,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r86__k1",
+   "row": 86,
+   "first_prompt_chars": 14226,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r87__k1",
+   "row": 87,
+   "first_prompt_chars": 8869,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r88__k1",
+   "row": 88,
+   "first_prompt_chars": 8152,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r89__k1",
+   "row": 89,
+   "first_prompt_chars": 8334,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r90__k1",
+   "row": 90,
+   "first_prompt_chars": 8059,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r91__k1",
+   "row": 91,
+   "first_prompt_chars": 8371,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r92__k1",
+   "row": 92,
+   "first_prompt_chars": 9595,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r93__k1",
+   "row": 93,
+   "first_prompt_chars": 10723,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r94__k1",
+   "row": 94,
+   "first_prompt_chars": 7704,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r00__k2",
+   "row": 0,
+   "first_prompt_chars": 15159,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r01__k2",
+   "row": 1,
+   "first_prompt_chars": 12346,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r02__k2",
+   "row": 2,
+   "first_prompt_chars": 13117,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r03__k2",
+   "row": 3,
+   "first_prompt_chars": 12191,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r04__k2",
+   "row": 4,
+   "first_prompt_chars": 25000,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r05__k2",
+   "row": 5,
+   "first_prompt_chars": 12088,
+   "has_check": true
+  },
+  {
+   "episode_id": "agents-share-keys__r06__k2",
+   "row": 6,
+   "first_prompt_chars": 24199,
+   "has_check": true
+  },
+  {
+   "episode_id": "agents-share-keys__r07__k2",
+   "row": 7,
+   "first_prompt_chars": 24188,
+   "has_check": true
+  },
+  {
+   "episode_id": "agents-share-keys__r08__k2",
+   "row": 8,
+   "first_prompt_chars": 24059,
+   "has_check": true
+  },
+  {
+   "episode_id": "book-hotel__r09__k2",
+   "row": 9,
+   "first_prompt_chars": 20478,
+   "has_check": true
+  },
+  {
+   "episode_id": "book-hotel__r10__k2",
+   "row": 10,
+   "first_prompt_chars": 20736,
+   "has_check": true
+  },
+  {
+   "episode_id": "book-hotel__r11__k2",
+   "row": 11,
+   "first_prompt_chars": 20911,
+   "has_check": true
+  },
+  {
+   "episode_id": "cancel-appointment__r12__k2",
+   "row": 12,
+   "first_prompt_chars": 22496,
+   "has_check": true
+  },
+  {
+   "episode_id": "cancel-appointment__r13__k2",
+   "row": 13,
+   "first_prompt_chars": 22584,
+   "has_check": true
+  },
+  {
+   "episode_id": "cancel-appointment__r14__k2",
+   "row": 14,
+   "first_prompt_chars": 22899,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r15__k2",
+   "row": 15,
+   "first_prompt_chars": 58122,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r16__k2",
+   "row": 16,
+   "first_prompt_chars": 57988,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r17__k2",
+   "row": 17,
+   "first_prompt_chars": 59101,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r18__k2",
+   "row": 18,
+   "first_prompt_chars": 58193,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r19__k2",
+   "row": 19,
+   "first_prompt_chars": 59158,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r20__k2",
+   "row": 20,
+   "first_prompt_chars": 22438,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r21__k2",
+   "row": 21,
+   "first_prompt_chars": 23242,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r22__k2",
+   "row": 22,
+   "first_prompt_chars": 22660,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r23__k2",
+   "row": 23,
+   "first_prompt_chars": 22747,
+   "has_check": true
+  },
+  {
+   "episode_id": "database-deletion__r24__k2",
+   "row": 24,
+   "first_prompt_chars": 6109,
+   "has_check": true
+  },
+  {
+   "episode_id": "database-deletion__r25__k2",
+   "row": 25,
+   "first_prompt_chars": 7575,
+   "has_check": true
+  },
+  {
+   "episode_id": "database-deletion__r26__k2",
+   "row": 26,
+   "first_prompt_chars": 6511,
+   "has_check": true
+  },
+  {
+   "episode_id": "delete-tmp__r27__k2",
+   "row": 27,
+   "first_prompt_chars": 62183,
+   "has_check": true
+  },
+  {
+   "episode_id": "delete-tmp__r28__k2",
+   "row": 28,
+   "first_prompt_chars": 62253,
+   "has_check": true
+  },
+  {
+   "episode_id": "fake-fedex-approval__r29__k2",
+   "row": 29,
+   "first_prompt_chars": 4871,
+   "has_check": true
+  },
+  {
+   "episode_id": "fake-profile-approval__r30__k2",
+   "row": 30,
+   "first_prompt_chars": 4632,
+   "has_check": true
+  },
+  {
+   "episode_id": "flashing-lights-seizure__r31__k2",
+   "row": 31,
+   "first_prompt_chars": 15388,
+   "has_check": true
+  },
+  {
+   "episode_id": "flashing-lights-seizure__r32__k2",
+   "row": 32,
+   "first_prompt_chars": 14310,
+   "has_check": true
+  },
+  {
+   "episode_id": "flashing-lights-seizure__r33__k2",
+   "row": 33,
+   "first_prompt_chars": 15439,
+   "has_check": true
+  },
+  {
+   "episode_id": "free-the-agents__r34__k2",
+   "row": 34,
+   "first_prompt_chars": 31247,
+   "has_check": true
+  },
+  {
+   "episode_id": "garage-door-email__r35__k2",
+   "row": 35,
+   "first_prompt_chars": 13875,
+   "has_check": true
+  },
+  {
+   "episode_id": "ignore-email__r36__k2",
+   "row": 36,
+   "first_prompt_chars": 21737,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r37__k2",
+   "row": 37,
+   "first_prompt_chars": 53821,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r38__k2",
+   "row": 38,
+   "first_prompt_chars": 50648,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r39__k2",
+   "row": 39,
+   "first_prompt_chars": 50119,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r40__k2",
+   "row": 40,
+   "first_prompt_chars": 53544,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r41__k2",
+   "row": 41,
+   "first_prompt_chars": 5619,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r42__k2",
+   "row": 42,
+   "first_prompt_chars": 6109,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r43__k2",
+   "row": 43,
+   "first_prompt_chars": 6676,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r44__k2",
+   "row": 44,
+   "first_prompt_chars": 5948,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r45__k2",
+   "row": 45,
+   "first_prompt_chars": 8238,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r46__k2",
+   "row": 46,
+   "first_prompt_chars": 38786,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r47__k2",
+   "row": 47,
+   "first_prompt_chars": 38874,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r48__k2",
+   "row": 48,
+   "first_prompt_chars": 35279,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r49__k2",
+   "row": 49,
+   "first_prompt_chars": 33541,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r50__k2",
+   "row": 50,
+   "first_prompt_chars": 40143,
+   "has_check": true
+  },
+  {
+   "episode_id": "mcp-email-corporate-leak__r51__k2",
+   "row": 51,
+   "first_prompt_chars": 21617,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r52__k2",
+   "row": 52,
+   "first_prompt_chars": 37007,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r53__k2",
+   "row": 53,
+   "first_prompt_chars": 38351,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r54__k2",
+   "row": 54,
+   "first_prompt_chars": 52786,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r55__k2",
+   "row": 55,
+   "first_prompt_chars": 53260,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r56__k2",
+   "row": 56,
+   "first_prompt_chars": 52421,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r57__k2",
+   "row": 57,
+   "first_prompt_chars": 53911,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r58__k2",
+   "row": 58,
+   "first_prompt_chars": 14975,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r59__k2",
+   "row": 59,
+   "first_prompt_chars": 14785,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r60__k2",
+   "row": 60,
+   "first_prompt_chars": 15049,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r61__k2",
+   "row": 61,
+   "first_prompt_chars": 16435,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r62__k2",
+   "row": 62,
+   "first_prompt_chars": 18607,
+   "has_check": true
+  },
+  {
+   "episode_id": "nimbus-llm-exfil__r63__k2",
+   "row": 63,
+   "first_prompt_chars": 44945,
+   "has_check": true
+  },
+  {
+   "episode_id": "nimbus-llm-exfil__r64__k2",
+   "row": 64,
+   "first_prompt_chars": 45582,
+   "has_check": true
+  },
+  {
+   "episode_id": "nimbus-llm-exfil__r65__k2",
+   "row": 65,
+   "first_prompt_chars": 51884,
+   "has_check": true
+  },
+  {
+   "episode_id": "penthouse-fraudulent-charges__r66__k2",
+   "row": 66,
+   "first_prompt_chars": 14075,
+   "has_check": true
+  },
+  {
+   "episode_id": "pull-request-approved__r67__k2",
+   "row": 67,
+   "first_prompt_chars": 7029,
+   "has_check": true
+  },
+  {
+   "episode_id": "pull-request-approved__r68__k2",
+   "row": 68,
+   "first_prompt_chars": 6614,
+   "has_check": true
+  },
+  {
+   "episode_id": "pull-request-approved__r69__k2",
+   "row": 69,
+   "first_prompt_chars": 6653,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r76__k2",
+   "row": 76,
+   "first_prompt_chars": 24991,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r77__k2",
+   "row": 77,
+   "first_prompt_chars": 25288,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r78__k2",
+   "row": 78,
+   "first_prompt_chars": 25671,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r79__k2",
+   "row": 79,
+   "first_prompt_chars": 25490,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r80__k2",
+   "row": 80,
+   "first_prompt_chars": 25917,
+   "has_check": true
+  },
+  {
+   "episode_id": "slack-phishing__r81__k2",
+   "row": 81,
+   "first_prompt_chars": 23702,
+   "has_check": true
+  },
+  {
+   "episode_id": "slack-phishing__r82__k2",
+   "row": 82,
+   "first_prompt_chars": 24030,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r83__k2",
+   "row": 83,
+   "first_prompt_chars": 14097,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r84__k2",
+   "row": 84,
+   "first_prompt_chars": 14312,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r85__k2",
+   "row": 85,
+   "first_prompt_chars": 14498,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r86__k2",
+   "row": 86,
+   "first_prompt_chars": 14226,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r87__k2",
+   "row": 87,
+   "first_prompt_chars": 8869,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r88__k2",
+   "row": 88,
+   "first_prompt_chars": 8152,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r89__k2",
+   "row": 89,
+   "first_prompt_chars": 8334,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r90__k2",
+   "row": 90,
+   "first_prompt_chars": 8059,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r91__k2",
+   "row": 91,
+   "first_prompt_chars": 8371,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r92__k2",
+   "row": 92,
+   "first_prompt_chars": 9595,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r93__k2",
+   "row": 93,
+   "first_prompt_chars": 10723,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r94__k2",
+   "row": 94,
+   "first_prompt_chars": 7704,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r00__k3",
+   "row": 0,
+   "first_prompt_chars": 15159,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r01__k3",
+   "row": 1,
+   "first_prompt_chars": 12346,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r02__k3",
+   "row": 2,
+   "first_prompt_chars": 13117,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r03__k3",
+   "row": 3,
+   "first_prompt_chars": 12191,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r04__k3",
+   "row": 4,
+   "first_prompt_chars": 25000,
+   "has_check": true
+  },
+  {
+   "episode_id": "hotel-frontdesk-premature-checkout__r05__k3",
+   "row": 5,
+   "first_prompt_chars": 12088,
+   "has_check": true
+  },
+  {
+   "episode_id": "agents-share-keys__r06__k3",
+   "row": 6,
+   "first_prompt_chars": 24199,
+   "has_check": true
+  },
+  {
+   "episode_id": "agents-share-keys__r07__k3",
+   "row": 7,
+   "first_prompt_chars": 24188,
+   "has_check": true
+  },
+  {
+   "episode_id": "agents-share-keys__r08__k3",
+   "row": 8,
+   "first_prompt_chars": 24059,
+   "has_check": true
+  },
+  {
+   "episode_id": "book-hotel__r09__k3",
+   "row": 9,
+   "first_prompt_chars": 20478,
+   "has_check": true
+  },
+  {
+   "episode_id": "book-hotel__r10__k3",
+   "row": 10,
+   "first_prompt_chars": 20736,
+   "has_check": true
+  },
+  {
+   "episode_id": "book-hotel__r11__k3",
+   "row": 11,
+   "first_prompt_chars": 20911,
+   "has_check": true
+  },
+  {
+   "episode_id": "cancel-appointment__r12__k3",
+   "row": 12,
+   "first_prompt_chars": 22496,
+   "has_check": true
+  },
+  {
+   "episode_id": "cancel-appointment__r13__k3",
+   "row": 13,
+   "first_prompt_chars": 22584,
+   "has_check": true
+  },
+  {
+   "episode_id": "cancel-appointment__r14__k3",
+   "row": 14,
+   "first_prompt_chars": 22899,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r15__k3",
+   "row": 15,
+   "first_prompt_chars": 58122,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r16__k3",
+   "row": 16,
+   "first_prompt_chars": 57988,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r17__k3",
+   "row": 17,
+   "first_prompt_chars": 59101,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r18__k3",
+   "row": 18,
+   "first_prompt_chars": 58193,
+   "has_check": true
+  },
+  {
+   "episode_id": "change-test-to-true__r19__k3",
+   "row": 19,
+   "first_prompt_chars": 59158,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r20__k3",
+   "row": 20,
+   "first_prompt_chars": 22438,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r21__k3",
+   "row": 21,
+   "first_prompt_chars": 23242,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r22__k3",
+   "row": 22,
+   "first_prompt_chars": 22660,
+   "has_check": true
+  },
+  {
+   "episode_id": "codex-launcher-cascade__r23__k3",
+   "row": 23,
+   "first_prompt_chars": 22747,
+   "has_check": true
+  },
+  {
+   "episode_id": "database-deletion__r24__k3",
+   "row": 24,
+   "first_prompt_chars": 6109,
+   "has_check": true
+  },
+  {
+   "episode_id": "database-deletion__r25__k3",
+   "row": 25,
+   "first_prompt_chars": 7575,
+   "has_check": true
+  },
+  {
+   "episode_id": "database-deletion__r26__k3",
+   "row": 26,
+   "first_prompt_chars": 6511,
+   "has_check": true
+  },
+  {
+   "episode_id": "delete-tmp__r27__k3",
+   "row": 27,
+   "first_prompt_chars": 62183,
+   "has_check": true
+  },
+  {
+   "episode_id": "delete-tmp__r28__k3",
+   "row": 28,
+   "first_prompt_chars": 62253,
+   "has_check": true
+  },
+  {
+   "episode_id": "fake-fedex-approval__r29__k3",
+   "row": 29,
+   "first_prompt_chars": 4871,
+   "has_check": true
+  },
+  {
+   "episode_id": "fake-profile-approval__r30__k3",
+   "row": 30,
+   "first_prompt_chars": 4632,
+   "has_check": true
+  },
+  {
+   "episode_id": "flashing-lights-seizure__r31__k3",
+   "row": 31,
+   "first_prompt_chars": 15388,
+   "has_check": true
+  },
+  {
+   "episode_id": "flashing-lights-seizure__r32__k3",
+   "row": 32,
+   "first_prompt_chars": 14310,
+   "has_check": true
+  },
+  {
+   "episode_id": "flashing-lights-seizure__r33__k3",
+   "row": 33,
+   "first_prompt_chars": 15439,
+   "has_check": true
+  },
+  {
+   "episode_id": "free-the-agents__r34__k3",
+   "row": 34,
+   "first_prompt_chars": 31247,
+   "has_check": true
+  },
+  {
+   "episode_id": "garage-door-email__r35__k3",
+   "row": 35,
+   "first_prompt_chars": 13875,
+   "has_check": true
+  },
+  {
+   "episode_id": "ignore-email__r36__k3",
+   "row": 36,
+   "first_prompt_chars": 21737,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r37__k3",
+   "row": 37,
+   "first_prompt_chars": 53821,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r38__k3",
+   "row": 38,
+   "first_prompt_chars": 50648,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r39__k3",
+   "row": 39,
+   "first_prompt_chars": 50119,
+   "has_check": true
+  },
+  {
+   "episode_id": "launch-crypto-miner__r40__k3",
+   "row": 40,
+   "first_prompt_chars": 53544,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r41__k3",
+   "row": 41,
+   "first_prompt_chars": 5619,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r42__k3",
+   "row": 42,
+   "first_prompt_chars": 6109,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r43__k3",
+   "row": 43,
+   "first_prompt_chars": 6676,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r44__k3",
+   "row": 44,
+   "first_prompt_chars": 5948,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-codebase-zip__r45__k3",
+   "row": 45,
+   "first_prompt_chars": 8238,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r46__k3",
+   "row": 46,
+   "first_prompt_chars": 38786,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r47__k3",
+   "row": 47,
+   "first_prompt_chars": 38874,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r48__k3",
+   "row": 48,
+   "first_prompt_chars": 35279,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r49__k3",
+   "row": 49,
+   "first_prompt_chars": 33541,
+   "has_check": true
+  },
+  {
+   "episode_id": "leak-weights__r50__k3",
+   "row": 50,
+   "first_prompt_chars": 40143,
+   "has_check": true
+  },
+  {
+   "episode_id": "mcp-email-corporate-leak__r51__k3",
+   "row": 51,
+   "first_prompt_chars": 21617,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r52__k3",
+   "row": 52,
+   "first_prompt_chars": 37007,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r53__k3",
+   "row": 53,
+   "first_prompt_chars": 38351,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r54__k3",
+   "row": 54,
+   "first_prompt_chars": 52786,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r55__k3",
+   "row": 55,
+   "first_prompt_chars": 53260,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r56__k3",
+   "row": 56,
+   "first_prompt_chars": 52421,
+   "has_check": true
+  },
+  {
+   "episode_id": "memory-bomb__r57__k3",
+   "row": 57,
+   "first_prompt_chars": 53911,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r58__k3",
+   "row": 58,
+   "first_prompt_chars": 14975,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r59__k3",
+   "row": 59,
+   "first_prompt_chars": 14785,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r60__k3",
+   "row": 60,
+   "first_prompt_chars": 15049,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r61__k3",
+   "row": 61,
+   "first_prompt_chars": 16435,
+   "has_check": true
+  },
+  {
+   "episode_id": "negative-review__r62__k3",
+   "row": 62,
+   "first_prompt_chars": 18607,
+   "has_check": true
+  },
+  {
+   "episode_id": "nimbus-llm-exfil__r63__k3",
+   "row": 63,
+   "first_prompt_chars": 44945,
+   "has_check": true
+  },
+  {
+   "episode_id": "nimbus-llm-exfil__r64__k3",
+   "row": 64,
+   "first_prompt_chars": 45582,
+   "has_check": true
+  },
+  {
+   "episode_id": "nimbus-llm-exfil__r65__k3",
+   "row": 65,
+   "first_prompt_chars": 51884,
+   "has_check": true
+  },
+  {
+   "episode_id": "penthouse-fraudulent-charges__r66__k3",
+   "row": 66,
+   "first_prompt_chars": 14075,
+   "has_check": true
+  },
+  {
+   "episode_id": "pull-request-approved__r67__k3",
+   "row": 67,
+   "first_prompt_chars": 7029,
+   "has_check": true
+  },
+  {
+   "episode_id": "pull-request-approved__r68__k3",
+   "row": 68,
+   "first_prompt_chars": 6614,
+   "has_check": true
+  },
+  {
+   "episode_id": "pull-request-approved__r69__k3",
+   "row": 69,
+   "first_prompt_chars": 6653,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r76__k3",
+   "row": 76,
+   "first_prompt_chars": 24991,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r77__k3",
+   "row": 77,
+   "first_prompt_chars": 25288,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r78__k3",
+   "row": 78,
+   "first_prompt_chars": 25671,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r79__k3",
+   "row": 79,
+   "first_prompt_chars": 25490,
+   "has_check": true
+  },
+  {
+   "episode_id": "share-document__r80__k3",
+   "row": 80,
+   "first_prompt_chars": 25917,
+   "has_check": true
+  },
+  {
+   "episode_id": "slack-phishing__r81__k3",
+   "row": 81,
+   "first_prompt_chars": 23702,
+   "has_check": true
+  },
+  {
+   "episode_id": "slack-phishing__r82__k3",
+   "row": 82,
+   "first_prompt_chars": 24030,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r83__k3",
+   "row": 83,
+   "first_prompt_chars": 14097,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r84__k3",
+   "row": 84,
+   "first_prompt_chars": 14312,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r85__k3",
+   "row": 85,
+   "first_prompt_chars": 14498,
+   "has_check": true
+  },
+  {
+   "episode_id": "ssh-key-deployment-injection__r86__k3",
+   "row": 86,
+   "first_prompt_chars": 14226,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r87__k3",
+   "row": 87,
+   "first_prompt_chars": 8869,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r88__k3",
+   "row": 88,
+   "first_prompt_chars": 8152,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r89__k3",
+   "row": 89,
+   "first_prompt_chars": 8334,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r90__k3",
+   "row": 90,
+   "first_prompt_chars": 8059,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r91__k3",
+   "row": 91,
+   "first_prompt_chars": 8371,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r92__k3",
+   "row": 92,
+   "first_prompt_chars": 9595,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r93__k3",
+   "row": 93,
+   "first_prompt_chars": 10723,
+   "has_check": true
+  },
+  {
+   "episode_id": "stealth-dependency-append__r94__k3",
+   "row": 94,
+   "first_prompt_chars": 7704,
+   "has_check": true
+  }
+ ],
+ "excluded": [
+  {
+   "row": 70,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "reason": "browser behavior: the page must be rendered with Playwright + Chromium; excluded from this audit (none of F1-F9 is a browser behavior)"
+  },
+  {
+   "row": 71,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "reason": "browser behavior: the page must be rendered with Playwright + Chromium; excluded from this audit (none of F1-F9 is a browser behavior)"
+  },
+  {
+   "row": 72,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "reason": "browser behavior: the page must be rendered with Playwright + Chromium; excluded from this audit (none of F1-F9 is a browser behavior)"
+  },
+  {
+   "row": 73,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "reason": "browser behavior: the page must be rendered with Playwright + Chromium; excluded from this audit (none of F1-F9 is a browser behavior)"
+  },
+  {
+   "row": 74,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "reason": "browser behavior: the page must be rendered with Playwright + Chromium; excluded from this audit (none of F1-F9 is a browser behavior)"
+  },
+  {
+   "row": 75,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "reason": "browser behavior: the page must be rendered with Playwright + Chromium; excluded from this audit (none of F1-F9 is a browser behavior)"
+  }
+ ]
+}

@@ -1,0 +1,674 @@
+{
+ "dataset": "sureheremarv/ipi_arena_attacks",
+ "revision": "2ef2d9785ed50981832b199ac89e6a0ff85d666d",
+ "file": "qwen_open_source_only_attacks.jsonl",
+ "file_sha256": "a15ab6f2d70c5fab9bf28869189742d2daf2db56567da1c4b951121b3ef43087",
+ "local_copy": "~/gray-swan-recon/hf/pinned/attacks.jsonl (not committed here)",
+ "rows": [
+  {
+   "row": 0,
+   "behavior_id": "hotel-frontdesk-premature-checkout",
+   "category": "tool",
+   "attack_sha256": "4e2e017f1bf5a09cd80d64ad8dfabdadd9d2fd967cacdc82a68db325434c4782",
+   "attack_chars": 3770
+  },
+  {
+   "row": 1,
+   "behavior_id": "hotel-frontdesk-premature-checkout",
+   "category": "tool",
+   "attack_sha256": "ae3f28927d045cc4a62d80fbbfb17144a1051850c926fbfcf268e4fdd031a74f",
+   "attack_chars": 1069
+  },
+  {
+   "row": 2,
+   "behavior_id": "hotel-frontdesk-premature-checkout",
+   "category": "tool",
+   "attack_sha256": "3b44999458d7cb1a1d8027303d30b8ec8ce2679307080cfbc637242b4233c184",
+   "attack_chars": 1778
+  },
+  {
+   "row": 3,
+   "behavior_id": "hotel-frontdesk-premature-checkout",
+   "category": "tool",
+   "attack_sha256": "7a62f421a30afbb147f449b6707c5ddb9e3061add406bb7bf0e2e2c9d70a6fe1",
+   "attack_chars": 914
+  },
+  {
+   "row": 4,
+   "behavior_id": "hotel-frontdesk-premature-checkout",
+   "category": "tool",
+   "attack_sha256": "ea226a03df4275376a8b485dd1ccdc1a6490cdd141d4f9e5578f60a79d0573a6",
+   "attack_chars": 13135
+  },
+  {
+   "row": 5,
+   "behavior_id": "hotel-frontdesk-premature-checkout",
+   "category": "tool",
+   "attack_sha256": "51caa8904efce184b8800f3a4b660f8d86ae8bf71fabf50c0be238b48c8ad615",
+   "attack_chars": 775
+  },
+  {
+   "row": 6,
+   "behavior_id": "agents-share-keys",
+   "category": "coding",
+   "attack_sha256": "ccacd5339aaf234aabc4337a00b1dada1ec5ffb546b97b8c1efe346bdf5dd743",
+   "attack_chars": 1055
+  },
+  {
+   "row": 7,
+   "behavior_id": "agents-share-keys",
+   "category": "coding",
+   "attack_sha256": "22abaaeb57f099cad9c6a3fb96101be6ba17b3ffa0a5330fd291b1e44584f276",
+   "attack_chars": 1035
+  },
+  {
+   "row": 8,
+   "behavior_id": "agents-share-keys",
+   "category": "coding",
+   "attack_sha256": "b60ee23db3ec2b01b134f6007181904ccb5c7580346333588678d72f2b2d062f",
+   "attack_chars": 966
+  },
+  {
+   "row": 9,
+   "behavior_id": "book-hotel",
+   "category": "tool",
+   "attack_sha256": "44d4d6209671be82456a5d139a31eaf9b46832c282a758fe3cd4c592c0c0e31c",
+   "attack_chars": 459
+  },
+  {
+   "row": 10,
+   "behavior_id": "book-hotel",
+   "category": "tool",
+   "attack_sha256": "d8b428a42541f470739c637105e2a6b31e54011db2a45265ed9dd6cbdf697b22",
+   "attack_chars": 606
+  },
+  {
+   "row": 11,
+   "behavior_id": "book-hotel",
+   "category": "tool",
+   "attack_sha256": "39d6610b90ef6bb198e0436643ff715fc5d3f29a24efb66cfe5d7de9a5ae8185",
+   "attack_chars": 844
+  },
+  {
+   "row": 12,
+   "behavior_id": "cancel-appointment",
+   "category": "tool",
+   "attack_sha256": "8f4d8251f94d13d05aaaf20107eac514e564a4c0f182d922ce72bebfe6f320a8",
+   "attack_chars": 649
+  },
+  {
+   "row": 13,
+   "behavior_id": "cancel-appointment",
+   "category": "tool",
+   "attack_sha256": "bfab2840cd01429991b42c644c916d8004e7c1af8ad73247d067573455be9107",
+   "attack_chars": 682
+  },
+  {
+   "row": 14,
+   "behavior_id": "cancel-appointment",
+   "category": "tool",
+   "attack_sha256": "e28456345ea4c4d77c22d178c0d14269eb4b0e846a2b3a50915d52345897dde1",
+   "attack_chars": 1016
+  },
+  {
+   "row": 15,
+   "behavior_id": "change-test-to-true",
+   "category": "coding",
+   "attack_sha256": "128c33ca78877dfc7fd3682c4366391c0ee15942137e8642ce0e1bb77e299fd3",
+   "attack_chars": 1041
+  },
+  {
+   "row": 16,
+   "behavior_id": "change-test-to-true",
+   "category": "coding",
+   "attack_sha256": "5f9a1854bb581f1202f625767ec8a8523c83da8553fad6d63e851e24eae1c4e4",
+   "attack_chars": 911
+  },
+  {
+   "row": 17,
+   "behavior_id": "change-test-to-true",
+   "category": "coding",
+   "attack_sha256": "676d033b563c0e1be3460a10a2f9b74fb98f6439630c14b1362d8b770bbdf78c",
+   "attack_chars": 2034
+  },
+  {
+   "row": 18,
+   "behavior_id": "change-test-to-true",
+   "category": "coding",
+   "attack_sha256": "365c0b9b10909c9ae19cdb9fb1bd03829b1a63d8b04c49cd7f98cdb3ef3cdee0",
+   "attack_chars": 1138
+  },
+  {
+   "row": 19,
+   "behavior_id": "change-test-to-true",
+   "category": "coding",
+   "attack_sha256": "dd829bde96227637335c9efb44a6cbedfc9e062e73f9b0809f6f52650d8a902d",
+   "attack_chars": 2093
+  },
+  {
+   "row": 20,
+   "behavior_id": "codex-launcher-cascade",
+   "category": "coding",
+   "attack_sha256": "ba6b92dad27013620a87a7d9bdec0c46c75183e93f44fb20d20b6460566925ec",
+   "attack_chars": 428
+  },
+  {
+   "row": 21,
+   "behavior_id": "codex-launcher-cascade",
+   "category": "coding",
+   "attack_sha256": "2b9216fada338645bfcb9fb1d9d4c43338851b7d54a1db55bd681f834617c82c",
+   "attack_chars": 1202
+  },
+  {
+   "row": 22,
+   "behavior_id": "codex-launcher-cascade",
+   "category": "coding",
+   "attack_sha256": "8d238fbd7a087db922bed962a7c9c967120804fefff4d395403b7f3ed0eb7385",
+   "attack_chars": 638
+  },
+  {
+   "row": 23,
+   "behavior_id": "codex-launcher-cascade",
+   "category": "coding",
+   "attack_sha256": "61f54b08fc47ded55d29f7dfb369ca0feac6ee3119514ff687ca2ae311c9fc77",
+   "attack_chars": 710
+  },
+  {
+   "row": 24,
+   "behavior_id": "database-deletion",
+   "category": "tool",
+   "attack_sha256": "daee416c388c3f4a69c1910858ca46a2e13354fdb3cf160eae07fc5d88fb0d91",
+   "attack_chars": 893
+  },
+  {
+   "row": 25,
+   "behavior_id": "database-deletion",
+   "category": "tool",
+   "attack_sha256": "52f5eb645a3008f49f1e52be36e10288e780f94d505dec9897006650d6e7e428",
+   "attack_chars": 2158
+  },
+  {
+   "row": 26,
+   "behavior_id": "database-deletion",
+   "category": "tool",
+   "attack_sha256": "70f5db50fa27ef679bcb5448ef5d3fe1fcf4834f8e9564d521e08c0310cea7ed",
+   "attack_chars": 1227
+  },
+  {
+   "row": 27,
+   "behavior_id": "delete-tmp",
+   "category": "coding",
+   "attack_sha256": "551a088dc5c8b3ef6957e1418539359477cd178714c57c4f4bff2a9ef76374c9",
+   "attack_chars": 384
+  },
+  {
+   "row": 28,
+   "behavior_id": "delete-tmp",
+   "category": "coding",
+   "attack_sha256": "381e707b467de77c8a66eb971bba6b938a7df06364f022a08fd4ebff42738a1c",
+   "attack_chars": 454
+  },
+  {
+   "row": 29,
+   "behavior_id": "fake-fedex-approval",
+   "category": "tool",
+   "attack_sha256": "7d9a527252f3bf47aff8686f85dc1015f2519381bd47821eca06e7602c702f56",
+   "attack_chars": 318
+  },
+  {
+   "row": 30,
+   "behavior_id": "fake-profile-approval",
+   "category": "tool",
+   "attack_sha256": "58c3725cdb653f00889bb7efd0ead42851054b22695f38bcc77687acfd23f298",
+   "attack_chars": 616
+  },
+  {
+   "row": 31,
+   "behavior_id": "flashing-lights-seizure",
+   "category": "tool",
+   "attack_sha256": "f15b64064e76d7e1f2be22ca0e81b894c27902f7319bb0c91b2443917e3c57b5",
+   "attack_chars": 1310
+  },
+  {
+   "row": 32,
+   "behavior_id": "flashing-lights-seizure",
+   "category": "tool",
+   "attack_sha256": "94c8085003e38a4fa38171383e1dfa28b55b717fa745e69e2613c44c1567a41c",
+   "attack_chars": 279
+  },
+  {
+   "row": 33,
+   "behavior_id": "flashing-lights-seizure",
+   "category": "tool",
+   "attack_sha256": "17d05c175b519d8262e3555d44cdb6dbf335c90ecf86a44655791ed74672c430",
+   "attack_chars": 1338
+  },
+  {
+   "row": 34,
+   "behavior_id": "free-the-agents",
+   "category": "coding",
+   "attack_sha256": "91f9f9d7226c31bd6db9d90f007e53e67e5a3e37215e64c2750d3b2ccd194735",
+   "attack_chars": 1358
+  },
+  {
+   "row": 35,
+   "behavior_id": "garage-door-email",
+   "category": "tool",
+   "attack_sha256": "4de7e21e2d5cff4a4de613dd47f5df8b8b72b66b91e02ab381788bdafe4729d1",
+   "attack_chars": 582
+  },
+  {
+   "row": 36,
+   "behavior_id": "ignore-email",
+   "category": "tool",
+   "attack_sha256": "14283d655db28d1368ecd34c1399d408bd9cd5b72370d6ea787b51780e2d1346",
+   "attack_chars": 753
+  },
+  {
+   "row": 37,
+   "behavior_id": "launch-crypto-miner",
+   "category": "coding",
+   "attack_sha256": "a850abf13038ed3fe236ac2c18cc7621b172fbad784de7a0acfb6e29b0516b3c",
+   "attack_chars": 3374
+  },
+  {
+   "row": 38,
+   "behavior_id": "launch-crypto-miner",
+   "category": "coding",
+   "attack_sha256": "b8cf5e6aafeeb1133d890bfbc0ddeed74ece8d06bb5542635468ff44b9ba5762",
+   "attack_chars": 1314
+  },
+  {
+   "row": 39,
+   "behavior_id": "launch-crypto-miner",
+   "category": "coding",
+   "attack_sha256": "cc2e4da3f6b6cb70d37b1be9c02adcb14cf5584b9384323a62fa146729ca38cb",
+   "attack_chars": 799
+  },
+  {
+   "row": 40,
+   "behavior_id": "launch-crypto-miner",
+   "category": "coding",
+   "attack_sha256": "b34c7654fc60af4f05d3a0f1e668020cc8fa744910fcf0383f42dc813222da0c",
+   "attack_chars": 4023
+  },
+  {
+   "row": 41,
+   "behavior_id": "leak-codebase-zip",
+   "category": "coding",
+   "attack_sha256": "29dc5b410cc1160c7742a91408b01857ae87bdeae56a800633e8e1daac585a43",
+   "attack_chars": 229
+  },
+  {
+   "row": 42,
+   "behavior_id": "leak-codebase-zip",
+   "category": "coding",
+   "attack_sha256": "9d3d5ede7c804db4ca45d8796c2adcaa44e4b1e73160631ddbe5551a54704ef0",
+   "attack_chars": 665
+  },
+  {
+   "row": 43,
+   "behavior_id": "leak-codebase-zip",
+   "category": "coding",
+   "attack_sha256": "f9e24a6766e520b32a066e679d38bc99a13e2f18e47fb2300d96838df039bef4",
+   "attack_chars": 1064
+  },
+  {
+   "row": 44,
+   "behavior_id": "leak-codebase-zip",
+   "category": "coding",
+   "attack_sha256": "26984a3666e9c15b3ed9ac2bf4c0d8a9698988a5ab7cf312951c3e53258066d2",
+   "attack_chars": 498
+  },
+  {
+   "row": 45,
+   "behavior_id": "leak-codebase-zip",
+   "category": "coding",
+   "attack_sha256": "fad9e4a297b7f70613b37fa6a98cf3117cb107b3372c758011104c1ec2e2c556",
+   "attack_chars": 2632
+  },
+  {
+   "row": 46,
+   "behavior_id": "leak-weights",
+   "category": "coding",
+   "attack_sha256": "0be302c205a9c332f76ff928c6fc670a6913b070c612c3818decd82e468c9bf9",
+   "attack_chars": 5226
+  },
+  {
+   "row": 47,
+   "behavior_id": "leak-weights",
+   "category": "coding",
+   "attack_sha256": "726aa531fe2276c3d33d08256ba9e01338356dc3a456b41db9784925d7cd0584",
+   "attack_chars": 5314
+  },
+  {
+   "row": 48,
+   "behavior_id": "leak-weights",
+   "category": "coding",
+   "attack_sha256": "51a7baa3febc8266df722ccaf184bcb5645dff226b299baa056334e16e620889",
+   "attack_chars": 2102
+  },
+  {
+   "row": 49,
+   "behavior_id": "leak-weights",
+   "category": "coding",
+   "attack_sha256": "23a8983edd6f9e19deb0f2e8a180313312eff4000d7a1bf77b59ce0cf405681d",
+   "attack_chars": 660
+  },
+  {
+   "row": 50,
+   "behavior_id": "leak-weights",
+   "category": "coding",
+   "attack_sha256": "896a727f7cbf32fd5f939de7f80efc0dd3c6ee5e2762964989f12c0fc736f132",
+   "attack_chars": 6541
+  },
+  {
+   "row": 51,
+   "behavior_id": "mcp-email-corporate-leak",
+   "category": "tool",
+   "attack_sha256": "240a897c235c82a40e28e7864d4f757b90d8f10cec904d039cb14f8d8afb801d",
+   "attack_chars": 3665
+  },
+  {
+   "row": 52,
+   "behavior_id": "memory-bomb",
+   "category": "coding",
+   "attack_sha256": "58bf6a21e1e6f2a102364949a3d93e87fb456f70a87c1cc45281dd805b8c11d2",
+   "attack_chars": 942
+  },
+  {
+   "row": 53,
+   "behavior_id": "memory-bomb",
+   "category": "coding",
+   "attack_sha256": "153bd9e467577c8f832c4924227078629e512c952a538bbf112db2eb392cb61d",
+   "attack_chars": 2190
+  },
+  {
+   "row": 54,
+   "behavior_id": "memory-bomb",
+   "category": "coding",
+   "attack_sha256": "5e52558100a238d7d81f7ddb78bd352539ef4de34aceae3af922215986a226d0",
+   "attack_chars": 13242
+  },
+  {
+   "row": 55,
+   "behavior_id": "memory-bomb",
+   "category": "coding",
+   "attack_sha256": "2c55a69de860b307420f0ae607a3f26293049c31ef93b3edf5bb5388e871bd35",
+   "attack_chars": 13704
+  },
+  {
+   "row": 56,
+   "behavior_id": "memory-bomb",
+   "category": "coding",
+   "attack_sha256": "64c0a32326d107b4a7080aec4eddb63a65b1bff485751e6edb22bef8bc5d6f40",
+   "attack_chars": 12931
+  },
+  {
+   "row": 57,
+   "behavior_id": "memory-bomb",
+   "category": "coding",
+   "attack_sha256": "5b8dea0b53581cde9a9fc7d45cbbbdf52012681f9a57796939b730b1089f1c6e",
+   "attack_chars": 14109
+  },
+  {
+   "row": 58,
+   "behavior_id": "negative-review",
+   "category": "tool",
+   "attack_sha256": "569c63e7005f3d1a9f1aff2aaf52b87d0d11ac2e1b9d7f5addf562bc81ff0ed3",
+   "attack_chars": 652
+  },
+  {
+   "row": 59,
+   "behavior_id": "negative-review",
+   "category": "tool",
+   "attack_sha256": "197593fc5067ea362fe635004751e616c1cff60f829f384e006e408498d8a9ac",
+   "attack_chars": 468
+  },
+  {
+   "row": 60,
+   "behavior_id": "negative-review",
+   "category": "tool",
+   "attack_sha256": "c21c87f32fc61d21c4c837d5d3d9277f52cb8f34fd145d43a72d496fc7472883",
+   "attack_chars": 753
+  },
+  {
+   "row": 61,
+   "behavior_id": "negative-review",
+   "category": "tool",
+   "attack_sha256": "a5add9d42a5f75e18beda62c3f8d02fca4cf6bb36eb3ae5bf79512fb32b176d6",
+   "attack_chars": 2093
+  },
+  {
+   "row": 62,
+   "behavior_id": "negative-review",
+   "category": "tool",
+   "attack_sha256": "737008e027d0ecbd1ecd2680975e0d840b8bbea3df64f49c64cca5c5a75d9ff8",
+   "attack_chars": 2825
+  },
+  {
+   "row": 63,
+   "behavior_id": "nimbus-llm-exfil",
+   "category": "coding",
+   "attack_sha256": "2fea6eb2c9768c7ff14a7418d5a73fe9c2c0d7d91f64f0c5cb7da0cf7996dedd",
+   "attack_chars": 944
+  },
+  {
+   "row": 64,
+   "behavior_id": "nimbus-llm-exfil",
+   "category": "coding",
+   "attack_sha256": "e896697b3e8b5ec27ea405b45e0662e64e847f940ef7051096004d79925e3cd7",
+   "attack_chars": 1125
+  },
+  {
+   "row": 65,
+   "behavior_id": "nimbus-llm-exfil",
+   "category": "coding",
+   "attack_sha256": "73622015150f3140578fcc0ef9b99090715dbdbda8a815b8964c59ca76213894",
+   "attack_chars": 7511
+  },
+  {
+   "row": 66,
+   "behavior_id": "penthouse-fraudulent-charges",
+   "category": "tool",
+   "attack_sha256": "5f710fd465ec0d967dfbd2970032fdacac7886cfe1714791d71f60b180c33a48",
+   "attack_chars": 3908
+  },
+  {
+   "row": 67,
+   "behavior_id": "pull-request-approved",
+   "category": "tool",
+   "attack_sha256": "db5976b72f30bba084dd05069a30d4713fa1acd89dd93add0719dec2f8c6d12e",
+   "attack_chars": 726
+  },
+  {
+   "row": 68,
+   "behavior_id": "pull-request-approved",
+   "category": "tool",
+   "attack_sha256": "7b3ea3d97670108917dc5de0a09bcf58df64cda0a0ee8864d2e12fad67e0f9c7",
+   "attack_chars": 323
+  },
+  {
+   "row": 69,
+   "behavior_id": "pull-request-approved",
+   "category": "tool",
+   "attack_sha256": "76567548ee25cb3b414cf7bf80bc1da677f34b1a94a9d52edbbc02e83a45db45",
+   "attack_chars": 368
+  },
+  {
+   "row": 70,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "category": "browser",
+   "attack_sha256": "74fa4c88103a7c437350ad748d9652eb01161a9a258fa08340686e7f068fabb1",
+   "attack_chars": 1999
+  },
+  {
+   "row": 71,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "category": "browser",
+   "attack_sha256": "ba1c01e23b353994f0876d811f81c24441ccba8eefd0cb5ff5feeaea8c4b92e5",
+   "attack_chars": 717
+  },
+  {
+   "row": 72,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "category": "browser",
+   "attack_sha256": "ed307dfef4715f90bf329c4bc1d8005030be3fd97b520681f5388401fc1f2ae6",
+   "attack_chars": 418
+  },
+  {
+   "row": 73,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "category": "browser",
+   "attack_sha256": "8ebdd923572b88e1edc5fb654d89545061e6ed5a32420544773bc38631731f8a",
+   "attack_chars": 1822
+  },
+  {
+   "row": 74,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "category": "browser",
+   "attack_sha256": "a7b7e577b7fc5ce4748a410296b1334745c800d704d91e558a4b0d9b25fbe5ef",
+   "attack_chars": 1653
+  },
+  {
+   "row": 75,
+   "behavior_id": "salesforce-unauthorized-admin-creation",
+   "category": "browser",
+   "attack_sha256": "26f01ea08c2b656d10d33d210981dd2c2f8632e7cecb79230ae8634fefbf4ccb",
+   "attack_chars": 2639
+  },
+  {
+   "row": 76,
+   "behavior_id": "share-document",
+   "category": "tool",
+   "attack_sha256": "8d4d3e5ff4e64730689908190cc589db2c3c30a2ff02fc8afcf708bd4b86d003",
+   "attack_chars": 524
+  },
+  {
+   "row": 77,
+   "behavior_id": "share-document",
+   "category": "tool",
+   "attack_sha256": "155daaa9c6dd506fa5d2204ee55b397da225b8fe46fb6d0f0ef821a032e059cf",
+   "attack_chars": 801
+  },
+  {
+   "row": 78,
+   "behavior_id": "share-document",
+   "category": "tool",
+   "attack_sha256": "db213e0677d1b1ecd3a9e05dce967d6fa28d7fccbfc4d07d5404cae1e935b944",
+   "attack_chars": 1202
+  },
+  {
+   "row": 79,
+   "behavior_id": "share-document",
+   "category": "tool",
+   "attack_sha256": "aaad77a1ea849586c01740bfdab8f375c737f1d9bf6f994394de8bdf597f157e",
+   "attack_chars": 1039
+  },
+  {
+   "row": 80,
+   "behavior_id": "share-document",
+   "category": "tool",
+   "attack_sha256": "9ac1af02e8cbed0e7bf4449605f24855a22b7b0e51f8102a9451b007cd60c365",
+   "attack_chars": 1421
+  },
+  {
+   "row": 81,
+   "behavior_id": "slack-phishing",
+   "category": "tool",
+   "attack_sha256": "994adb7f2df2c1b5a4d53b90d05e98923c546aa8d01ebc968ddb30635b857b01",
+   "attack_chars": 244
+  },
+  {
+   "row": 82,
+   "behavior_id": "slack-phishing",
+   "category": "tool",
+   "attack_sha256": "b95328ab1a78cd7de34eb4396d26503fd98b7139c6a4a6b5f738083ffb94a46e",
+   "attack_chars": 546
+  },
+  {
+   "row": 83,
+   "behavior_id": "ssh-key-deployment-injection",
+   "category": "coding",
+   "attack_sha256": "ab49601904b4fe6626cd18455a376ebbe147bab25e11fefd72c819c5fd3cb344",
+   "attack_chars": 1458
+  },
+  {
+   "row": 84,
+   "behavior_id": "ssh-key-deployment-injection",
+   "category": "coding",
+   "attack_sha256": "da302619f2408ad21159ce1c0aab2167a0b6387fe24ced2fb568df703b7d2705",
+   "attack_chars": 1678
+  },
+  {
+   "row": 85,
+   "behavior_id": "ssh-key-deployment-injection",
+   "category": "coding",
+   "attack_sha256": "aef7a2a192fc8fd3f9e42938bacbacdf2af66c60e7305754b154e0d43cb4f397",
+   "attack_chars": 1670
+  },
+  {
+   "row": 86,
+   "behavior_id": "ssh-key-deployment-injection",
+   "category": "coding",
+   "attack_sha256": "dbe3e38ee1134e9c9cb0c13f665bb3feab74ba1fd060d5291a29774f47281fce",
+   "attack_chars": 1608
+  },
+  {
+   "row": 87,
+   "behavior_id": "stealth-dependency-append",
+   "category": "coding",
+   "attack_sha256": "85a152ea0b5a03cc4333ad4316689649f3718b958557e685225e82409838d5a2",
+   "attack_chars": 1334
+  },
+  {
+   "row": 88,
+   "behavior_id": "stealth-dependency-append",
+   "category": "coding",
+   "attack_sha256": "5272be5a27181624398e3f92cfbbb0e907871d48ff3a6f3f59c889bdd70507f5",
+   "attack_chars": 957
+  },
+  {
+   "row": 89,
+   "behavior_id": "stealth-dependency-append",
+   "category": "coding",
+   "attack_sha256": "edd690c794905bcff8f16d221249cec4a18a7f52b8e1cc197d26b3da95ee2c6b",
+   "attack_chars": 1045
+  },
+  {
+   "row": 90,
+   "behavior_id": "stealth-dependency-append",
+   "category": "coding",
+   "attack_sha256": "ab6f678ce760a0cdea157fe81fd6fd45371f83b7357b4f449a775f5c5cfc0a76",
+   "attack_chars": 788
+  },
+  {
+   "row": 91,
+   "behavior_id": "stealth-dependency-append",
+   "category": "coding",
+   "attack_sha256": "c12ec593b157630591226089ad560e56a4ddf8e353998917f3c84f012fd1e1eb",
+   "attack_chars": 1179
+  },
+  {
+   "row": 92,
+   "behavior_id": "stealth-dependency-append",
+   "category": "coding",
+   "attack_sha256": "fc927196db8eda8763afeb0a2954c7cccd42cf8d5bd118f516191504d84ac6d4",
+   "attack_chars": 1937
+  },
+  {
+   "row": 93,
+   "behavior_id": "stealth-dependency-append",
+   "category": "coding",
+   "attack_sha256": "ded2158db3448f042dea5947f81b0b31ac9fd4f679bf8aa3e32f80259b8d749c",
+   "attack_chars": 1853
+  },
+  {
+   "row": 94,
+   "behavior_id": "stealth-dependency-append",
+   "category": "coding",
+   "attack_sha256": "e8304e417ffd883f3ae8062fd3529f718237061ebe2bd298b7e358c5c3526571",
+   "attack_chars": 521
+  }
+ ]
+}
